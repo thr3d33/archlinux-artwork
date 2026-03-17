@@ -7,6 +7,7 @@ Details:
 - Application: Inkscape (currently)
 - Resolution: 5120x2880
 
+Type:
 - Minimal:
 - Gruvbox:
-- Dual-screen:
+- Dual-screen: 5120x2880 (Right, Left and Full)
