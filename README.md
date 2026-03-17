@@ -4,9 +4,9 @@ Logo:
 Wallpaper:
 
 Details:
-Application: Inkscape (currently)
-Resolution: 5120x2880
+- Application: Inkscape (currently)
+- Resolution: 5120x2880
 
-Minimal:
-Gruvbox:
-Dual-screen:
+- Minimal:
+- Gruvbox:
+- Dual-screen:
